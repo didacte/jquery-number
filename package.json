@@ -1,0 +1,16 @@
+{
+  "name": "jquery-number",
+  "version": "2.1.7",
+  "description": "### By Sam Sehnert, [Custom D](https://www.customd.com/) 2015",
+  "main": "jquery.number.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didacte/jquery-number.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/didacte/jquery-number/issues"
+  },
+  "homepage": "https://github.com/didacte/jquery-number#readme"
+}
