@@ -227,7 +227,9 @@
 								// Allow: home, end, left, right
 								( (key >= 35 && key <= 39) ) ||
 								// Allow: F1-F12
-								( (key >= 112 && key <= 123) )
+								( (key >= 112 && key <= 123) ) ||
+								// Allow Shift+number
+								( (key >= 48 && key <= 57) && ( e.shiftKey ) === true )
 							){
 								return;
 							}
